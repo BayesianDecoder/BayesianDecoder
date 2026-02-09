@@ -47,7 +47,7 @@ I build practical machine learning systems with experience in Deep Learning, NLP
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack-Development-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white)
 ![RL](https://img.shields.io/badge/RL-Reinforcement_Learning-purple?style=for-the-badge&logo=openai&logoColor=white)
 
-### Connect With Me
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/a-vijay-aditya/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
