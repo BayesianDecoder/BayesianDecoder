@@ -1,6 +1,6 @@
 # Hello World!
 
-<img align="left" src="profile.gif" width="400">
+<img align="left" src="profile.mp4" width="400">
 
 I’m Vijay Aditya from IIT (BHU), Varanasi, working at the intersection of software engineering and AI. I build practical machine learning systems with experience in Deep Learning, NLP, Computer Vision, and MLOps, focusing on deployable, real-world solutions.
 
