@@ -53,7 +53,7 @@ I build practical machine learning systems with experience in Deep Learning, NLP
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 
-<a href="mailto:vijayaditya1977@gmail.com">
+<a href="mailto:avijay.aditya.mec22@iitbhu.ac.in">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
 
