@@ -1,10 +1,22 @@
-# Hello World!
+# Hello World !
 
-<img align="left" src="profile.mp4" width="400">
+<table border="0">
+<tr>
+<td>
+<img width="180" src="profile.gif">
+</td>
 
-I’m Vijay Aditya from IIT (BHU), Varanasi, working at the intersection of software engineering and AI. I build practical machine learning systems with experience in Deep Learning, NLP, Computer Vision, and MLOps, focusing on deployable, real-world solutions.
+<td>
 
-**`Code, data, AI — crafted into real-world systems.`**
+I’m Vijay Aditya from IIT (BHU), Varanasi, working at the intersection of software engineering and AI.  
+I build practical machine learning systems with experience in Deep Learning, NLP, Computer Vision, and MLOps, focusing on deployable, real-world solutions.
+
+**`Code, data, AI — crafted into real-world systems`**
+
+</td>
+</tr>
+</table>
+
 
 
 ## 🧰 Languages and Tools
@@ -34,6 +46,17 @@ I’m Vijay Aditya from IIT (BHU), Varanasi, working at the intersection of soft
 
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack-Development-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white)
 ![RL](https://img.shields.io/badge/RL-Reinforcement_Learning-purple?style=for-the-badge&logo=openai&logoColor=white)
+
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/a-vijay-aditya/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+
+<a href="mailto:vijayaditya1977@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+</a>
+
 
 
 ## Profile Views <br>
