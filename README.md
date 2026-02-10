@@ -9,14 +9,13 @@
 <td>
 
 I’m Vijay Aditya from IIT (BHU), Varanasi, working at the intersection of software engineering and AI.  
-I build practical machine learning systems with experience in Deep Learning, NLP, Computer Vision, and MLOps, focusing on deployable, real-world solutions.
+I enjoy building scalable systems, intelligent applications, and production-ready AI solutions.
 
 **`Code, data, AI — crafted into real-world systems`**
 
 </td>
 </tr>
 </table>
-
 
 
 ## 🧰 Languages and Tools
@@ -42,7 +41,19 @@ I build practical machine learning systems with experience in Deep Learning, NLP
 ![QGIS](https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌱 Learning
+## 👨‍💻 What I Work On
+
+![ML](https://img.shields.io/badge/ML-Machine_Learning-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![DL](https://img.shields.io/badge/DL-Deep_Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![CV](https://img.shields.io/badge/CV-Computer_Vision-5C3EE8?style=for-the-badge&logo=openai&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-Machine_Learning_Ops-2496ED?style=for-the-badge&logo=openai&logoColor=white)
+![RL](https://img.shields.io/badge/RL-Reinforcement_Learning-purple?style=for-the-badge&logo=openai&logoColor=white)
+
+
+## 📖 Learning
 
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack-Development-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white)
 ![RL](https://img.shields.io/badge/RL-Reinforcement_Learning-purple?style=for-the-badge&logo=openai&logoColor=white)
@@ -59,8 +70,7 @@ I build practical machine learning systems with experience in Deep Learning, NLP
 
 
 
-## Profile Views <br>
-![VisitorCount](https://komarev.com/ghpvc/?username=BayesianDecoder)
+
 
 
 
