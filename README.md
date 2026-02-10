@@ -11,7 +11,7 @@
 I’m Vijay Aditya from IIT (BHU), Varanasi, working at the intersection of software engineering and AI.  
 I enjoy building scalable systems, intelligent applications, and production-ready AI solutions.
 
-**`Code, data, AI — crafted into real-world systems`**
+**`Running on coffee, commits, and curiosity.`**
 
 </td>
 </tr>
